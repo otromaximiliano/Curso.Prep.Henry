@@ -13,7 +13,23 @@
 * [07 - VI - Callbacks](./07-JS-VI) (3 hs)
 * [08 - HTML](./08-HTML) (3 hs)
 * [09 - CSS](./09-CSS-Positioning) (3 hs)
-* Checkpoint
+* Henry Challenge => [Inscribite acá para rendir](https://airtable.com/shrjhdL2GfsusMZ05)
+
+## Conceptos:
+
+* [Expressions vs Statements](./JS-conceptos/Statements-Expressions/)
+
+## Proceso de subida de homeworks
+
+__IMPORTANTE:__ Luego de completar cada una de las homeworks del día deberán ejecutar el siguiente comando para subir sus trabajos a sus repositorios (Deben estar posicionados sobre la carpeta principal `Curso.Prep.Henry` para que funcione y haber corrido previamente `npm install`:
+
+Para la homework número 1 no es necesario ya que su trabajo se realiza por fuera de este repositorio
+
+```bash
+  node submit.js {numeroHomework}
+```
+
+*En donde dice {numeroHomework} deben reemplazarlo simplemente por el número de homework correspondiente, por ejemplo `node submit.js 2`*
 
 # La Carrera
 
